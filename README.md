@@ -14,6 +14,8 @@ Rubiksis (перевёл всех NPC)
 Lan (сделал некоторые спрайты)
 
 Особая благодарность
-Особая благодарность Rubiksis и Lan за помощь с переводом игры. Также сообществу “The end is nigh
+Особая благодарность Rubiksis и Lan за помощь с переводом игры. Также сообществу "The end is nigh"
+
 И я ещё раз хочу поблагодарить SurrealDude за добавление субтитров!
+
 And I'd like to thank SurrealDude once again for adding the subtitles!
