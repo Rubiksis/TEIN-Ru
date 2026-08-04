@@ -4,8 +4,8 @@
 ___
 
 #  ***УСТАНОВКА:***
-# 1. Скачайте файл game.gpak со странички [релизов](https://github.com/Rubiksis/TEIN-Ru/releases/latest) **(текст кликабелен!)**
-# 2. Переместите и замените файл game.gpak в папку с установленной игрой
+# 1. Скачайте файл game.gpak (не папку text или файл readme.md, а именно файл game.gpak!!) со странички [релизов](https://github.com/Rubiksis/TEIN-Ru/releases/latest) **(текст кликабелен!)**
+# 2. Переместите и замените файл game.gpak в папку с установленной игрой (где лежит файл TheEndIsNigh.exe)
 # 3. Играйте!
 
 ___
