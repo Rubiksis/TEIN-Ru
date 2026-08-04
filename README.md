@@ -4,7 +4,7 @@
 ___
 
 #  ***УСТАНОВКА:***
-# 1. Скачайте файл game.gpak со странички [релизов](https://github.com/Rubiksis/TEIN-Ru/releases/latest) **(ссылка кликабельна!)**
+# 1. Скачайте файл game.gpak со странички [релизов](https://github.com/Rubiksis/TEIN-Ru/releases/latest) **(текст кликабелен!)**
 # 2. Переместите и замените файл game.gpak в папку с установленной игрой
 # 3. Играйте!
 
